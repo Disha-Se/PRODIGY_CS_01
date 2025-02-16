@@ -15,3 +15,27 @@ This is a simple Python program that allows users to encrypt and decrypt text us
    ```bash
    git clone https://github.com/your-username/caesar-cipher.git
    cd caesar-cipher
+2. **Run the Program**:
+   - Ensure Python is installed on your system.
+   - Run the program using:
+     ```bash
+     python caesar_cipher.py
+     ```
+
+3. **Follow the Prompts**:
+   - Choose to encrypt or decrypt a message.
+   - Enter the message and the shift value.
+
+4. **View the Result**:
+   - The program will display the encrypted or decrypted message.
+
+## Example
+
+```plaintext
+Caesar Cipher Program
+1. Encrypt
+2. Decrypt
+Choose an option (1 or 2): 1
+Enter the message: Hello World
+Enter the shift value: 3
+Encrypted message: Khoor Zruog
